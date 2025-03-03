@@ -48,7 +48,7 @@ public class Contador {
 
 # Resolução
 
-[``meu código do desafio``](https://github.com/guiyossef/desafio-dio-contador/blob/main/desafiocontrolefluxo/src/Contador.java)<br />
+[``meu código do desafio``](https://github.com/guiyossef/desafio-dio-contador/blob/main/src/Contador.java)<br/>
 
 ## Ferramentas utilizadas
 
